@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anb5
 - 👀 I’m interested in Blockchain, web3 and DeSo
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on blockchain or web3 related projects 
+- 💞️ I’m looking forward to collaborate on blockchain or web3 related projects 
 - 📫 Reach me over nagabhavaniaavula@gmail.com
 
 <!---
